@@ -31,3 +31,5 @@ To start Kafka kindly run the below command in command prompt
 ============================================================
 1s command prompt (C:\kafka_2.12-3.2.3\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties)
 2nd command prompt (C:\kafka_2.12-3.2.3\bin\windows\kafka-server-start.bat .\config\server.properties)
+
+swagger link : http://localhost:9093/swagger-ui/index.html
